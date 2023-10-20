@@ -9,3 +9,7 @@ Added several functionalities:
 Issue:
 
 -background of the labels can't be fixed due to limitations to tkinter
+
+To do:
+
+-add vector to follow cursor
