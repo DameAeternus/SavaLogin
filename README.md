@@ -1,4 +1,3 @@
-# SavaLogin
 # Login page for Sava Penzisko osiguruvanje
 
 Added several functionalities:
