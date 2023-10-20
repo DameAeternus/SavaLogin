@@ -1,7 +1,10 @@
 # SavaLogin
+# Login page for Sava Penzisko osiguruvanje
+
 Added several functionalities:
 
 -screen is resizable as well as the background
+
 -show password function
 
 Issue:
