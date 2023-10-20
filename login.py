@@ -42,6 +42,8 @@ password_entry = tk.Entry(root, show='*')
 password_entry.place(relx=0.45, rely=0.5)
 password_checkbutton.place(relx=0.45, rely=0.6)
 
+button= tk.Button(root,text="Log in")
+button.place(relx=0.35,rely=0.605)
 # Function to resize the background image
 def resize_image(e):
     bg_width = e.width
